@@ -176,8 +176,7 @@ resume-item-institute {
     margin-top: 0px;
 }
 
-.resime-item-description,
-.resume-item-institute {
+.resime-item-description, .resume-item-institute {
     color: #757575;
 }
 
@@ -203,8 +202,7 @@ footer {
     margin-right: 25px;
 }
 
-.contact input,
-textarea {
+.contact input, textarea {
     display: block;
     margin-bottom: 25px;
     padding: 18px 35px;
@@ -213,4 +211,3 @@ textarea {
     background: #FFF;
     border: 0;
 }
-.con
