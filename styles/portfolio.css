@@ -101,9 +101,14 @@ nav a {
 
 /* main-section style  */
 
-.main{
+.main {
     width: 1140px;
     margin: 0 auto;
+}
+
+main section {
+    margin-top: 130px;
+
 }
 
 /* about-section style  */
@@ -114,10 +119,42 @@ nav a {
     margin: 130px 0px;
 }
 
-.about-info-container{
+.about-info-container {
     display: flex;
+    gap: 24px;
     justify-content: space-around;
 }
-.about-info{
+
+.about-info {
     text-align: center;
+}
+
+/* What i di section  */
+
+#what-i-do-description {
+    padding: 30px 150px;
+}
+
+.skill-container {
+    display: flex;
+    gap: 24px;
+}
+
+.skill {
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
+
+.scill-description {
+    color: #757575;
+}
+
+/* resume column title */
+
+.resume-column-title {
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+    
 }
